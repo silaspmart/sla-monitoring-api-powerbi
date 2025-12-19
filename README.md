@@ -7,14 +7,14 @@ Os dados são gerados de forma simulada na API e consumidos diretamente pelo Pow
 
 ## 🏗️ Arquitetura do Projeto
 Java (Spring Boot)  
-    │   
-    ├── API REST (dados simulados)  
-    │       └── Endpoint /chamados      
-    │   
-    └── Power BI    
-        ├── Página 1: Visão Geral de Chamados   
-        ├── Página 2: Desempenho Operacional    
-        └── Página 3: Gargalos Operacionais
+│   
+├── API REST (dados simulados)  
+│     └── Endpoint /chamados      
+│   
+└── Power BI    
+    ├── Página 1: Visão Geral de Chamados   
+    ├── Página 2: Desempenho Operacional    
+    └── Página 3: Gargalos Operacionais
 
 ## ⚙️ Tecnologias Utilizadas
 
